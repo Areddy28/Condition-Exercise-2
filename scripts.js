@@ -1,10 +1,10 @@
 let name1 = "Anurag"; 
 let name2 = "Kavitha"; 
 let name3 = "Sam";
-if (name1.lenght > name2.length && name1.length > name3.length) {
+if (name1.length > name2.length && name1.length > name3.length) {
    console.log(name1); 
 
-} else if (name2.length > name1.lenghth && name2.length > name3.length) {
+} else if (name2.length > name1.length && name2.length > name3.length) {
     console.log(name2); 
 } else if (name3.length > name1.length && name3.length > name2.length) {
     console.log(name3); 
